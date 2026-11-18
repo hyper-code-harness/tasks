@@ -1,7 +1,11 @@
 {
   "name": "tasks",
-  "private": true,
+  "version": "1.0.0",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyper-code-harness/tasks"
+  },
   "procs": {
     "src": "src",
     "label": "Tasks",
